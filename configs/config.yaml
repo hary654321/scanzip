@@ -10,8 +10,8 @@ Server:
   LifeWindow: 1440
 App:
   #  协程数
-  Threads: 10000
-  Detailed: True
+  Threads: 1000
+  Detailed: false
   #每秒扫描的ip数
   ScanSpeed: 5000
   DefaultPageSize: 10
