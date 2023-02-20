@@ -1,5 +1,5 @@
 Server:
-  RunMode: debug
+  RunMode: test
   HttpPort: 18000
   ReadTimeout: 60
   WriteTimeout: 60
@@ -10,7 +10,7 @@ Server:
   LifeWindow: 1440
 App:
   #  协程数
-  Threads: 1000
+  Threads: 100
   Detailed: false
   #每秒扫描的ip数
   ScanSpeed: 5000
