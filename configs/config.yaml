@@ -1,7 +1,7 @@
 Server:
   RunMode: test
   HttpPort: 18000
-  ReadTimeout: 60
+  ReadTimeout: 5
   WriteTimeout: 60
   Version: 1.1.1
   BasicAuth: Basic enc6Y2g=
