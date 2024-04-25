@@ -8,6 +8,8 @@ Server:
   LogPath: /zrtx/log/cyberspace
   ScanPath: /zrtx/bin/cyberspace
   LifeWindow: 1440
+  ProbeScan: false
+  ScanTime: 3600
 App:
   #  协程数
   Threads: 100
